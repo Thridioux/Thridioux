@@ -1,10 +1,9 @@
-# Hi there, I'm Erdem ~sophmore student at bachelors of electrical-electronical engineering
+
 
 - 🔭 Check out my Last repository.
 - 🌱 I’m currently learning Python Selenium.
 - 🥅 2022 Goals: Learn more about web3 
-- ⚡ Fun fact: I love to meet random people and talk with them. 
-- 🔭  A big fan of watching/playing basketball/tennis.
+
 
 
 ### Connect with me:

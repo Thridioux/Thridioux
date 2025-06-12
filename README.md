@@ -53,17 +53,17 @@ A passionate Cloud/DevOps Engineer with a strong background in cloud technologie
 
 ### 🌐 Connect with Me:
 
-<a href="my_linkedin_link" target="_blank">
-  <img src="https://github.com/Thridioux/Thridioux/blob/main/linkedin.png?raw=true" alt="LinkedIn" width="40" height="40" style="margin: 10px;"/>
+<a href="https://www.linkedin.com/in/faruk-erdem-%C3%A7elik-39bb46302/" target="_blank">
+  <img src="linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 10px;"/>
 </a>
 <a href="https://www.instagram.com/faruk_erdemcelik/" target="_blank">
-  <img src="https://github.com/Thridioux/Thridioux/blob/main/instagram.png?raw=true" alt="Instagram" width="40" height="40" style="margin: 10px;"/>
+  <img src="instagram.png" alt="Instagram" width="40" height="40" style="margin: 10px;"/>
 </a>
 <a href="mailto:farukerdemc@gmail.com" target="_blank">
-  <img src="https://github.com/Thridioux/Thridioux/blob/main/letter.png?raw=true" alt="Email" width="40" height="40" style="margin: 10px;"/>
+  <img src="letter.png" alt="Email" width="40" height="40" style="margin: 10px;"/>
 </a>
 <a href="https://orcid.org/0000-0002-1825-0097" target="_blank">
-  <img src="https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green" alt="ORCID" width="40" height="40" style="margin: 10px;"/>
+  <img src="ORCID_logo.png" alt="ORCID" width="40" height="40" style="margin: 10px;"/>
 </a>
 
 ---

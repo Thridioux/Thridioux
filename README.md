@@ -1,57 +1,83 @@
 <!-- Professional DevOps Engineer Profile -->
 
-# Welcome to My GitHub Profile 👋
+# Faruk Erdem Çelik 
 
-🚀 **Faruk Erdem Çelik** | **DevOps Engineer** | Innovating Infrastructure & Automation
-
----
-
-### 🌟 About Me:
-- 🔭 **Current Focus:** Building scalable DevOps solutions and optimizing CI/CD pipelines.
-- 🌱 **Learning:** Advanced Kubernetes, GitHub Actions, and cloud-native architectures.
-- 🥅 **Goals for 2025:** Contribute to open-source DevOps tools and frameworks.
-- ⚡ **Fun Fact:** I thrive on solving complex infrastructure challenges and automating workflows.
+A passionate Cloud/DevOps Engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects and contributions.
 
 ---
 
-### 🛠️ Tools & Technologies:
+### 🔧 Technologies and Tools:
 
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
-![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
-![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)
-![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)
-![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![CI/CD](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+**Cloud:** Azure, AWS, Google Cloud Platform  
+**Containerization:** Docker, Kubernetes, AKS 
+**CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions  
+**Configuration Management:** Ansible  
+**IaC:** Terraform
+**Monitoring:** Prometheus, Grafana  
+**Scripting:** Bash, Python, Taskfile  
+**Programming:** Java, Spring Boot
+**Version Control:** Git, GitHub
+
+---
+
+### 🛠️ Main Toolkit
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon Web Services - AWS" alt="Amazon Web Services - AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud Platform - GCP" alt="Google Cloud Platform - GCP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="Red Hat OpenShift" alt="Red Hat OpenShift" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>
+<p/>
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" alt="Helm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/kustomize-icon.svg" title="Kustomize" alt="Kustomize" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" title="Argo CD" alt="Argo CD" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-crossplane/main/img/crossplane-icon.svg" title="Crossplane" alt="Crossplane" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" title="Vault HashiCorp" alt="Vault HashiCorp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
+<p/>
 
 ---
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://github.com/Thridioux/Thridioux/blob/main/linkedin.png?raw=true)](my_linkedin_link)
-[![Instagram](https://github.com/Thridioux/Thridioux/blob/main/instagram.png?raw=true)](https://www.instagram.com/faruk_erdemcelik/)
-[![Email](https://github.com/MhmtMutlu/MhmtMutlu/blob/main/letter.png?raw=true)](mailto:mhmetmtlu@outlook.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green)](https://orcid.org/0000-0002-1825-0097)
-
----
-
-### 📂 Featured Projects:
-
-- [**Repository 1**](https://github.com/Thridioux/repo1): A cutting-edge DevOps tool for automated deployments.
-- [**Repository 2**](https://github.com/Thridioux/repo2): Infrastructure as Code (IaC) templates for scalable cloud solutions.
-- [**Repository 3**](https://github.com/Thridioux/repo3): CI/CD pipeline configurations for enterprise applications.
-
----
-
-### 🎨 Animations:
-
-![DevOps Animation](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+<a href="my_linkedin_link" target="_blank">
+  <img src="https://github.com/Thridioux/Thridioux/blob/main/linkedin.png?raw=true" alt="LinkedIn" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://www.instagram.com/faruk_erdemcelik/" target="_blank">
+  <img src="https://github.com/Thridioux/Thridioux/blob/main/instagram.png?raw=true" alt="Instagram" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="mailto:farukerdemc@gmail.com" target="_blank">
+  <img src="https://github.com/Thridioux/Thridioux/blob/main/letter.png?raw=true" alt="Email" width="40" height="40" style="margin: 10px;"/>
+</a>
+<a href="https://orcid.org/0000-0002-1825-0097" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green" alt="ORCID" width="40" height="40" style="margin: 10px;"/>
+</a>
 
 ---
 
 ### 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thridioux&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thridioux&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thridioux&layout=compact&theme=radical)
+
+---
+
+### 📊 LeetCode Stats:
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Erdem_)](https://leetcode.com/u/Erdem_/)
 
 ---
 

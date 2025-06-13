@@ -2,7 +2,8 @@
 
 # Faruk Erdem Çelik 
 
-A passionate Cloud/DevOps Engineer with a background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects and contributions.
+A passionate Cloud/DevOps Engineer with a background in Java Spring Boot,
+RESTful APIs, and backend architectures.I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects and contributions.
 
 ---
 
@@ -43,6 +44,20 @@ A passionate Cloud/DevOps Engineer with a background in cloud technologies and a
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <p/>
+
+---
+
+### 🏆 Achievements:
+
+- Presented at the 33rd IEEE SIU Conference (2025) — *Artificial Intelligence-Based Analysis of Microscopic Images of Dermatophyte Fungi*.
+- Applied CNNs (VGG16, EfficientNetB0, MobileNetV3) to classify dermatophyte infections; best accuracy: 78.9% with VGG16.
+
+---
+
+### 🛠️ Additional Skills:
+
+**Databases & Cloud Services:** MSSQL, Oracle, MySQL  
+**Data Analysis & Machine Learning:** Pandas, Numpy, Matplotlib, PyTorch, TensorFlow, Scikit-Learn
 
 ---
 
